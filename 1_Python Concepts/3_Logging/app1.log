@@ -1,0 +1,10 @@
+04-Jul-26 05:14:53 - arithmetic_app - DEBUG - Adding 10 + 15 = 25
+04-Jul-26 05:14:53 - arithmetic_app - DEBUG - Subtracting 15 - 10 = 5
+04-Jul-26 05:14:53 - arithmetic_app - DEBUG - Multiplying 10 * 20 = 200
+04-Jul-26 05:14:53 - arithmetic_app - DEBUG - Dividing 20 / 10 = 2.0
+04-Jul-26 05:14:53 - arithmetic_app - ERROR - Division by zero error occurred
+Traceback (most recent call last):
+  File "D:\CS stuff\AI-ML\2_More-Python-Concepts\5_Logging-realWorldEg.py", line 34, in divide
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
