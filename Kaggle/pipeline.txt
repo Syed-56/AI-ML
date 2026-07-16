@@ -1,0 +1,14 @@
+Basic
+1. Import Libraries
+2. Load Dataset: train,test,sample_submission
+EDA
+3. Check Structure and Quality of data
+4. Data Preprocessng
+5. Feature Engineering
+6. Identify Relationships
+ML
+7. Train/Test Split and CV
+8. Train and Test model
+9. Hyperparameter Tuning
+10. Final Model Fitting
+11. Submission
