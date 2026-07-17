@@ -4,7 +4,7 @@ Basic
 EDA
 3. Check Structure and Quality of data
 4. Data Preprocessng
-5. Feature Engineering
+5. Feature Engineering and Data Encoding
 6. Identify Relationships
 ML
 7. Train/Test Split and CV
