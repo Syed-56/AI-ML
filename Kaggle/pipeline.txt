@@ -7,7 +7,7 @@ EDA
 5. Identify Relationships
 6. Data Encoding
 ML
-7. Train/Test Split and CV
+7. Train/Test Split and CV (scaling also happens here)
 8. Train and Test model
 9. Hyperparameter Tuning
 10. Final Model Fitting
